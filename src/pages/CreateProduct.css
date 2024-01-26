@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.createProduct-css {
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.createProduct-css h1 {
+    font-weight: bolder;
+}
+
+.createProduct-css input {
+    background-color: white;
+    border-radius: 10px;
+    
+}

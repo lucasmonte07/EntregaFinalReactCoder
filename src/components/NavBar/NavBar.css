@@ -1,0 +1,12 @@
+.Container-NvBar {
+    background-color: #5c5858;
+    border-radius: 10px;
+}
+
+.NavLink{
+    color: white;
+}
+
+.Container-NvBar p {
+    color: white;
+}
